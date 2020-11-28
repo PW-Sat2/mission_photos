@@ -1,2 +1,2 @@
-# mission_photos
+# Mission photos
 Photos from the mission
